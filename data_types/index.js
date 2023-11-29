@@ -42,7 +42,7 @@ JS Data Types:
 /*
 ?   Strings
         * primitive data types representing characters
-        * enclosed in '', "", or **
+        * enclosed in '', "", or ``
     Examples:
 */
 
